@@ -1,0 +1,30 @@
+/* Universal selector- It is used to remove default properties */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* Use Tag name to apply css to all that matching Tags */
+div{
+    height: 150px;
+    width: 150px;
+}
+
+
+/* Use . to select element with class name */
+.box1{
+    background-color: aqua;
+}
+
+
+/* Use # to select element with id name */
+#box2{
+    background-color: rebeccapurple;
+}
+
+
+/* Use , to group element to apply same css */
+.box1, #box2{
+    font-size: 50px;
+}
