@@ -1,4 +1,4 @@
-/* Universal selector- It is used to remove default properties */
+/* Universal selector- It is used to remove default properties or to add default property */
 *{
     padding: 0px;
     margin: 0px;
