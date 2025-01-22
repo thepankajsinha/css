@@ -1,0 +1,19 @@
+#para {
+    height: 25%;
+    width: 25%;
+    background-color: aquamarine;
+
+    /* Border- space between margin and padding*/
+    border: 2px solid black;
+    border-radius: 10px;
+
+    /* Padding- space between content and border */
+    /* padding: top right bottom left */
+    /* padding: top&bottom  left&right */
+    padding: 25px 50px;
+
+    /* Margin- space outside of border is margin*/
+    /* margin: top right bottom left */
+    /* margin: top&bottom  left&right */
+    margin: 50px 60px;
+}
